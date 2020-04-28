@@ -1,1 +1,3 @@
-# sentimental-analysis-movie-review
+# Sentimental-Analysis-Movie-Review
+
+Sentimental Analysis of Movie Review
